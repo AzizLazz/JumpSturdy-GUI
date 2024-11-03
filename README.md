@@ -2,29 +2,29 @@
 
 # 🌟 JumpSturdy GUI 🌟
 
-Description
+-Description
 
 This is the graphical user interface (GUI) for the game Jump Sturdy. The application offers an interactive gaming experience with multiple buttons that allow users to perform various in-game actions. The GUI is designed to make the game more accessible and engaging for both new and experienced players.
 
-Requirements
+-Requirements
 
 JDK 22 or higher
 
-Running the Game
+-Running the Game
 
 To start the game, simply run the main method in the Game class.
 
-Using the Bots
+-Using the Bots
 
 To use the bots, connect them to a specific port. This port can be changed in lines 55 & 56 of the code. Once connected, you can use the buttons to get suggested moves or to execute the best move automatically.
 
-Features
+-Features
 
 Interactive user interface
 Option to receive move suggestions from bots
 Execution of the best move by the bot
 
-Instructions
+-Instructions
 
 Ensure that JDK 22 is installed.
 Clone or download the project.
