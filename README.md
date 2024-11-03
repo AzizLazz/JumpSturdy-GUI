@@ -1,6 +1,6 @@
 
 
-#Jump Sturdy GUI
+# 🌟 JumpSturdy GUI 🌟
 
 #Description
 
